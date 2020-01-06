@@ -12,4 +12,4 @@ Then run the script by typing:
 > python3 script.py
 
 
-** All images obtained as a result of this script are the sole property of National Geographic. I do not lay claim to any of the images taken/hosted by them. **
+**All images obtained as a result of this script are the sole property of National Geographic. I do not lay claim to any of the images taken/hosted by them.**
